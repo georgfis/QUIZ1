@@ -1,5 +1,6 @@
 Kevin Cruz Jorge Garzon
 
+error al subir y error en gitlab
 "al intentar poner push, nos arrojo error por falta 
 de autenticación y lo solucionamos autenticando"
 https://github.com/georgfis/QUIZ1 
