@@ -1,12 +1,13 @@
 Kevin Cruz Jorge Garzon
 
-"al intentar poner push, nos arrojo error por falta 
-de autenticación y lo solucionamos autenticando"
-https://github.com/georgfis/QUIZ1 
-https://gitlab.com/kacruzv011/quiz1.git
-Kevin Cruz Jorge Garzon
 
+en github
 "al intentar poner push, nos arrojo error por falta 
-de autenticación y lo solucionamos autenticando"
+de autenticación y lo solucionamos autenticando por codey dando permisos desde los ajustes de github"
+
+
+en gitlab 
+"al hacer clone, arrojo error por que no tenia permisos para conectar, se agrego al miebro al equipo como owner
+y al hacer push pidio confirmacion por correo u contreseña"
 https://github.com/georgfis/QUIZ1 
 https://gitlab.com/kacruzv011/quiz1.git
