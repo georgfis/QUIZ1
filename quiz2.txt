@@ -1,0 +1,6 @@
+Kevin Cruz Jorge Garzon
+
+"al intentar poner push, nos arrojo error por falta 
+de autenticación y lo solucionamos autenticando"
+https://github.com/georgfis/QUIZ1 
+falta gitlab 
